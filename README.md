@@ -85,6 +85,9 @@ endmodule
 ```
 
 **RTL LOGIC FOR FLIPFLOPS**
+
+
+
 ![image](https://github.com/KishanShreeB/JKFLIPFLOP-USING-IF-ELSE/assets/144870434/12c1e117-5946-4844-9155-1c8b5920c181)
 
 
